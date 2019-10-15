@@ -1,0 +1,12 @@
+﻿// This is a comment
+Level Name: Grand Canyon
+
+Terrain:               b               b   
+Terrain: ─ ────             a    ┌──┐       a┌──┐
+Terrain:   b    ┌──┐                                  c
+Terrain:     a        ┌──┐   ┌──────────┐ ┌──────┐ ┌────
+Terrain: ┌──┐     a          ├██████████┤ ├██████└─┘████  
+Terrain:   b    ┌──┐   a     ├██████████└B┘█████████████
+Terrain:                     ├██████████████████████████
+Terrain: aba                a├██████████████████████████
+Terrain: ────────────────────┘██████████████████████████

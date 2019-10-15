@@ -1,0 +1,6 @@
+// This is a comment
+Level Name: Tutorial3
+Terrain:      a        a   c
+Terrain: ─┐ ┌──┐a┌─┐a┌──┐ ┌──┐
+Terrain: █┤ ├██└─┘█└─┘██└─┘██└   
+Terrain:  └B┘

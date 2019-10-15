@@ -1,0 +1,11 @@
+﻿// This is a comment
+Level Name: Hidden Treasures
+
+Terrain:                ┤B├ 
+Terrain:                ┤b├          ab┤
+Terrain:                ┤ ├         ┌──┤ a 
+Terrain:                         a               c
+Terrain: ─┐ ┌──┐a┌─┐ ┌──────┐a┌──┐ ┌────┐ ┌───────────
+Terrain: █┤ ├██└─┘█┤a├██████└─┘██└─┘████┤ ├███████████  
+Terrain: █┤b├██████└─┘██████████████████└─┘███████████
+Terrain: █└─┘█████████████████████████████████████████

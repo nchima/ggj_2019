@@ -1,0 +1,12 @@
+﻿// This is a comment
+Level Name: Lost in Space
+
+Terrain:       ┌┐a                      ┌──┐b
+Terrain:────┐  ├┤         b                                c
+Terrain:       ├┤                   a              a     ┌──
+Terrain:  a    └┘             ┌─┐                        ├██
+Terrain:┌──┐        ┌─┐       ├█┤        a  ┌──┐    ┌──┐ ├██  
+Terrain:  a   ┌──┐  ├█┤       ├█┤   ┌──┐                 ├██
+Terrain:        b   ├█┤ aaaaa ├█┤                 a      ├██
+Terrain:            ├███████████┤b                      a├██
+Terrain:████████████████████████████████████████████████████
